@@ -1,0 +1,17 @@
+
+# Ambiente virtual Python
+.venv/
+venv/
+env/
+
+# Cache e arquivos temporários
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Configurações locais
+.env
+.vscode/
+
+# Banco de dados local
+data/*.db
